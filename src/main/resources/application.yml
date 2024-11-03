@@ -1,0 +1,7 @@
+spring.application.name:
+    hexagonal
+
+arch:
+    cliente:
+      address:
+          url: http://
